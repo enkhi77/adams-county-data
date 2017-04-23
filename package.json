@@ -1,0 +1,12 @@
+{
+  "name": "adams-county-data",
+  "version": "1.0.0",
+  "description": "Political party data project code base",
+  "main": "server.js",
+  "repository": "https://github.com/enkhi77/adams-county-data.git",
+  "author": "Wesley Song <wes.song@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
